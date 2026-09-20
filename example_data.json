@@ -1,0 +1,21 @@
+{
+  "title": "Formal Request — Example Document",
+  "meta": [
+    "Reference: EXAMPLE-2026-001",
+    "Date: 20 September 2026"
+  ],
+  "sections": [
+    {
+      "heading": "1. Purpose",
+      "body": "This is a placeholder paragraph showing how a short heading stays glued to its first paragraph even when a page break would otherwise land between them.\n\nA second paragraph in the same section flows normally afterward, and can spill onto the next page without dragging the heading down with it."
+    },
+    {
+      "heading": "2. Background",
+      "body": "Dense administrative and legal documents are usually assembled from several source paragraphs of very different lengths. Without explicit pagination hints, a layout engine will happily orphan a one-line heading at the bottom of a page."
+    },
+    {
+      "heading": "3. Requested Action",
+      "body": "Replace this JSON with your own title, meta lines, and sections — the script handles the rest: tight A4 margins, justified body text, and heading/paragraph pairs that never get split across a page break."
+    }
+  ]
+}
